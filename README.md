@@ -18,8 +18,6 @@ If you use this code for your research, please cite our paper.
 }
 ```
 
-If you have any questions about this code, please feel free to contact Simiao Yu (simiao.yu13@imperial.ac.uk).
-
 # Prerequisites
 
 The original code is in python 3.5 under the following dependencies:
